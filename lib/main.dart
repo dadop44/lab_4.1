@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//âfafafafafaf
 class FlickrPhoto {
   int page, pages;
   List<Photo> photo;
